@@ -1,0 +1,31 @@
+# Node / React
+node_modules/
+frontend/node_modules/
+
+# Build
+dist/
+frontend/dist/
+
+# Environment variables
+.env
+.env.*
+frontend/.env
+frontend/.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Java - dùng sau này
+target/
+*.class
+
+# IntelliJ
+*.iml
